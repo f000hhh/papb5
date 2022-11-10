@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">papb5</string>
+    <string name="anda_berada_di_dashboard">Anda berada di Dashboard</string>
+    <string name="keluar">Keluar</string>
+    <string name="masukkan_no_telp_anda">Masukkan No. Telp Anda</string>
+    <string name="isi_nomor_di_sini">Isi nomor di sini</string>
+    <string name="kirim_otp">Kirim OTP</string>
+    <string name="otp">OTP</string>
+    <string name="verifikasi_otp">Verifikasi OTP</string>
+</resources>
